@@ -8,4 +8,4 @@
 * In this project, I tried to forecast the stock market by building a model using Keras.
 * All the necessary data pre-processing steps were done before building the model.
 * **_MinMaxScaler_** was used to normalize the data between 0 and 1.
-* For building the model, the** _mean-squared-error_** loss function and the **_Adam_** optimizer we used with Keras.
+* For building the model, the **_mean-squared-error_** loss function and the **_Adam_** optimizer we used with Keras.

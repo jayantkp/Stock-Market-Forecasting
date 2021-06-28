@@ -10,4 +10,4 @@
 * **_MinMaxScaler_** was used to normalize the data between 0 and 1.
 * For building the model, the **_mean-squared-error_** loss function and the **_Adam_** optimizer we used with Keras.
 * To evaluate the performance of the model, **_Root Mean Squared Error(RMSE)_** was used. We are getting a **_RMSE_** value of 0.0312.
-* 
+

@@ -14,3 +14,6 @@
  <h4> The forecasting for upcoming 30 days is shown as below. </h4>
  
  ![](stock_prices.png)
+
+
+_**Thank you!!**_

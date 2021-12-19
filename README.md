@@ -9,4 +9,8 @@
 * **_MinMaxScaler_** was used to normalize the data between 0 and 1.
 * For building the model, the **_mean-squared-error_** loss function and the **_Adam_** optimizer were used with Keras.
 
+The prediction is given by the following plot.
+
+![](prediction.png)
+
 _**Thank you!!**_
